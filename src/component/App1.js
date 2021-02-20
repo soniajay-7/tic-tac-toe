@@ -113,7 +113,7 @@ const App1 = () => {
             ))}
           </div>
           <Button className="setbtn" color="primary" block onClick={reload}>
-            Reload Game
+            Reload
           </Button>
         </Col>
       </Row>
